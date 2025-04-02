@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "BRDownfall",
+  "short_name": "BRDownfall",
+  "description": "Ein kritischer Diskurs, der manchmal etwas pointiert über die wahren Probleme der BRD berichtet.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",
