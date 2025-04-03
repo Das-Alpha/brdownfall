@@ -4,13 +4,13 @@
   <id>https://www.brdownfall.live/</id>
   <title>BRDownfall</title>
   <subtitle>Ein kritischer Diskurs, der manchmal etwas pointiert über die wahren Probleme der BRD berichtet.</subtitle>
-  <updated>2025-04-03T04:51:26+02:00</updated>
+  <updated>2025-04-03T04:53:49+02:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.brdownfall.live/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="https://www.brdownfall.live/feed.xml"/>
-  <link rel="alternate" type="text/html" hreflang="de"
+  <link rel="alternate" type="text/html" hreflang="de-DE"
     href="https://www.brdownfall.live/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Das Alpha </rights>
