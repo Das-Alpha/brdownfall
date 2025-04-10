@@ -4,7 +4,7 @@
   <id>https://www.brdownfall.live/</id>
   <title>BRDownfall</title>
   <subtitle>Ein kritischer Diskurs, der manchmal etwas pointiert über die wahren Probleme der BRD berichtet.</subtitle>
-  <updated>2025-04-10T13:09:15+02:00</updated>
+  <updated>2025-04-10T13:10:54+02:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.brdownfall.live/</uri>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Die Kinder und die Blockchain</title>
-    <link href="https://www.brdownfall.live/posts/Das-Intro/" rel="alternate" type="text/html" title="Die Kinder und die Blockchain" />
+    <link href="https://www.brdownfall.live/posts/Die-KInder-und-die-Blockchain/" rel="alternate" type="text/html" title="Die Kinder und die Blockchain" />
     <published>2025-04-01T12:00:00+02:00</published>
   
-    <updated>2025-04-10T13:07:54+02:00</updated>
+    <updated>2025-04-01T12:00:00+02:00</updated>
   
-    <id>https://www.brdownfall.live/posts/Das-Intro/</id>
-    <content type="text/html" src="https://www.brdownfall.live/posts/Das-Intro/" />
+    <id>https://www.brdownfall.live/posts/Die-KInder-und-die-Blockchain/</id>
+    <content type="text/html" src="https://www.brdownfall.live/posts/Die-KInder-und-die-Blockchain/" />
     <author>
       <name>Das Alpha</name>
     </author>
@@ -47,13 +47,13 @@
   
   <entry>
     <title>Das Intro</title>
-    <link href="https://www.brdownfall.live/posts/Das-Intro/" rel="alternate" type="text/html" title="Das Intro" />
+    <link href="https://www.brdownfall.live/posts/Der-Auftakt/" rel="alternate" type="text/html" title="Das Intro" />
     <published>2025-02-01T11:00:00+01:00</published>
   
-    <updated>2025-04-10T13:09:10+02:00</updated>
+    <updated>2025-02-01T11:00:00+01:00</updated>
   
-    <id>https://www.brdownfall.live/posts/Das-Intro/</id>
-    <content type="text/html" src="https://www.brdownfall.live/posts/Das-Intro/" />
+    <id>https://www.brdownfall.live/posts/Der-Auftakt/</id>
+    <content type="text/html" src="https://www.brdownfall.live/posts/Der-Auftakt/" />
     <author>
       <name>Das Alpha</name>
     </author>
