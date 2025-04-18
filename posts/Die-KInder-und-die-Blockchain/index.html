@@ -215,9 +215,16 @@
 
   
 
+  
+    
+
+    
+
+  
 
 
-  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/de.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.13/dayjs.min.js,npm/dayjs@1.11.13/locale/de.js,npm/dayjs@1.11.13/plugin/relativeTime.js,npm/dayjs@1.11.13/plugin/localizedFormat.js,npm/tocbot@4.32.2/dist/tocbot.min.js"></script>
 
 
 
@@ -607,6 +614,27 @@
   
 
   
+    
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+
+      
+    
+
+    
+  
 
   
   
@@ -637,7 +665,7 @@
 
 
 
-<article class="px-1" data-toc="false">
+<article class="px-1" data-toc="true">
   <header>
     <h1 data-toc-skip>Die Kinder und die Blockchain</h1>
     
@@ -722,7 +750,7 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="147 Wörter"
+  title="275 Wörter"
 >
   <em>1 Minuten</em> Lesezeit</span>
 
@@ -732,11 +760,39 @@
   </header>
 
   
+    <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
+      <span class="label text-truncate">Die Kinder und die Blockchain</span>
+      <button type="button" class="toc-trigger btn me-1">
+        <i class="fa-solid fa-list-ul fa-fw"></i>
+      </button>
+    </div>
+
+    <button id="toc-solo-trigger" type="button" class="toc-trigger btn btn-outline-secondary btn-sm">
+      <span class="label ps-2 pe-1">Inhalt</span>
+      <i class="fa-solid fa-angle-right fa-fw"></i>
+    </button>
+
+    <dialog id="toc-popup" class="p-0">
+      <div class="header d-flex flex-row align-items-center justify-content-between">
+        <div class="label text-truncate py-2 ms-4">Die Kinder und die Blockchain</div>
+        <button id="toc-popup-close" type="button" class="btn mx-1 my-1 opacity-75">
+          <i class="fas fa-close"></i>
+        </button>
+      </div>
+      <div id="toc-popup-content" class="px-4 py-3 pb-4"></div>
+    </dialog>
+  
 
   <div class="content">
     <h1 id="vorwort">Vorwort</h1>
 
 <p>Was soll man sagen? Nach unseren vier vorherigen Kapiteln, die deutlich herauszuheben sind in dieser <strong><em>Neverending Story</em></strong>. Es geht nun schon seit 2010 mit dem Kind und seit 2016 mit den Kindern hin und her. Mit physischer Gewalt, psychischer Gewalt, Bedrohungen, Erpressungen, Gruppenzwang und jedem Mittel versucht man mir - wie sich schon seit ein paar Monaten herausgestellt hat - Kinder, die nicht meine sind mir dauerhaft <strong><em>anzuzecken</em></strong>. Gut über den Begriff mag man diskutieren können, aber im Kern beschreibt es das Verhalten sehr gut und alles ist mehr als deutlich dokumentiert und die Justiz ist sich generell dieser Vorgehensweise bewußt, jedoch haben sich die Richter mal wieder ganz intelligent versucht von jeglicher Schuld freizusprechen, durch den (angeblich) fehlenden Grundsatz der Amtsermittlung in diesem Bereich. Wie man noch sehen wird, ist dies jedoch allenfalls ein Feigenblatt, das in Deutschland den Justizmissbrauch von ganz oben sanktionieren soll.</p>
+
+<h2 id="die-hurenbockjagd-und-deren-hintergrund"><span class="me-2">Die Hurenbockjagd und deren Hintergrund</span><a href="#die-hurenbockjagd-und-deren-hintergrund" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+
+<p>Aktuell gibt es - laut meinen Informationen - selbst noch eine <strong><em>“Informationslücke”</em></strong>, d.h. selbst wenn erwiesen ist, dass das Kind noch von einem selbst ist, so ist der Regressanspruch <strong><em>durchsetzungsschwach</em></strong>. Damit ist gemeint, dass der Scheinvater nicht von der Kindesmutter den Namen des eigentlichen Vaters in Erfahrung bringen kann, da Sie nicht (dazu) aussagen muss. Das oberste Gericht hat aus diesem Grund den Gesetzesgeber auferlegt einen <strong>durchsetzbaren</strong> Ausgleich dieser beider Interessen zu gestaltne (<a href="https://www.lto.de/recht/nachrichten/n/bverfg-beschluss-1-bvr-472-14-scheinvaeter-kein-auskunftsanspruch-gegen-mutter-ohne-gesetz" target="_blank">BVerfG, Beschluss v. 24.02.2015, 1 BvR 472/14</a>).</p>
+
+<p>Daher ist die Voraussetzung für einen Regressanspruch eine erfolgreiche <strong><em>Hurenbockjagd</em></strong>. Selbstverständlich war uns der Wunsch des obersten Gerichtes und des Gesetzgebers Befehl und wir haben diese “quasi” außerhalb Deutschlands umgesetzt, indem wir die Stelzböcke durch ein sog. <a href="https://de.wikipedia.org/wiki/Cloaking" target="_blank">Cloaking</a> sich in Sicherheit wähnen liessen.</p>
 
   </div>
 
@@ -927,6 +983,12 @@
 
 
 
+
+  <div class="toc-border-cover z-3"></div>
+  <section id="toc-wrapper" class="invisible position-sticky ps-0 pe-4 pb-4">
+    <h2 class="panel-heading ps-3 pb-2 mb-0">Inhalt</h2>
+    <nav id="toc"></nav>
+  </section>
 
 
             
