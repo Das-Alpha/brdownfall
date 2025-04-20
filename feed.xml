@@ -4,7 +4,7 @@
   <id>https://www.brdownfall.live/</id>
   <title>BRDownfall</title>
   <subtitle>Ein kritischer Diskurs, der manchmal etwas pointiert über die wahren Probleme der BRD berichtet.</subtitle>
-  <updated>2025-04-20T14:11:24+02:00</updated>
+  <updated>2025-04-20T14:12:10+02:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.brdownfall.live/</uri>
@@ -17,6 +17,38 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Die Schlammschlacht</title>
+    <link href="https://www.brdownfall.live/posts/Die-Schlammschlacht/" rel="alternate" type="text/html" title="Die Schlammschlacht" />
+    <published>2025-04-20T12:00:00+02:00</published>
+  
+    <updated>2025-04-20T14:12:06+02:00</updated>
+  
+    <id>https://www.brdownfall.live/posts/Die-Schlammschlacht/</id>
+    <content type="text/html" src="https://www.brdownfall.live/posts/Die-Schlammschlacht/" />
+    <author>
+      <name>Das Alpha</name>
+    </author>
+
+  
+    
+    <category term="Ostern" />
+    
+    <category term="Lämmer" />
+    
+    <category term="Opfer" />
+    
+    <category term="Weltbewegendes" />
+    
+    <category term="Baden-Württemberg" />
+    
+  
+
+  <summary>Die SchLammschlacht - ewig angekündigt und immer wieder aus Gründen verschoben! Das Fest des Opferns der Lämmer!</summary>
+
+  </entry>
 
   
   <entry>
